@@ -15,7 +15,7 @@ public class CryptoService {
     private final ObjectMapper mapper;
 
     public CryptoService(){
-        Dotenv dotenv= Dotenv.load();
+        Dotenv dotenv  = Dotenv.load();
         this.apiKey=dotenv.get("COINGECKO_API_KEY");
         this.client=HttpClient.newHttpClient();
         this.mapper=new ObjectMapper();
