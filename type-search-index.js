@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.crypto","l":"AudioPlayer"},{"p":"org.crypto","l":"CryptoPriceAlert"},{"p":"org.crypto","l":"CryptoService"},{"p":"org.crypto","l":"Main"},{"p":"org.crypto","l":"PriceMonitor"}];updateSearchResults();
